@@ -38,11 +38,12 @@ env:
 # in TravisCI. It also has conditionals for OSX so developers can run it there
 script:
   - ./script/test.sh
-  - ./script/test_basic_auth.sh
+  - ./script/test_basic_auth.sh  || docker logs $PACT_CONT_NAME
 
 # Docker cleanup though it might not be necessary as Travis probably
 # cleans the used slaves anyway for this is also serves as documenting code
 after_script:
+  - docker logs $PACT_CONT_NAME
   - docker stop $PSQL_CONT_NAME || true
   - docker stop $PACT_CONT_NAME || true
   - docker rm $PACT_CONT_NAME || true

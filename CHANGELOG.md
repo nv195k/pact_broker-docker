@@ -1,3 +1,22 @@
+<a name="2.16.1-2"></a>
+### 2.16.1-2 (2018-03-12)
+
+
+#### Features
+
+* allow public access to the heartbeat URL to be configured via an environment variable	 ([a3d8fb8](/../../commit/a3d8fb8))
+
+
+<a name="2.16.1-1"></a>
+### 2.16.1-1 (2018-03-08)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.16.1	 ([c85d7cc](/../../commit/c85d7cc))
+
+
 <a name="2.16.0-1"></a>
 ### 2.16.0-1 (2018-03-08)
 
