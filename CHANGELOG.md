@@ -1,3 +1,152 @@
+<a name="2.23.4-1"></a>
+### 2.23.4-1 (2018-07-04)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.23.4	 ([5eb4ba2](/../../commit/5eb4ba2))
+
+
+<a name="2.23.3-1"></a>
+### 2.23.3-1 (2018-06-27)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.23.3	 ([84d36df](/../../commit/84d36df))
+
+
+<a name="2.23.2-1"></a>
+### 2.23.2-1 (2018-06-25)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.23.2	 ([493a9e5](/../../commit/493a9e5))
+
+
+<a name="2.23.1-1"></a>
+### 2.23.1-1 (2018-06-23)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.23.1	 ([181cd8b](/../../commit/181cd8b))
+
+
+<a name="2.23.0-1"></a>
+### 2.23.0-1 (2018-06-21)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.23.0	 ([6b78cf3](/../../commit/6b78cf3))
+
+
+<a name="2.22.0-2"></a>
+### 2.22.0-2 (2018-06-14)
+
+
+#### Features
+
+* change version ordering to order by date by default	 ([9e6fca7](/../../commit/9e6fca7))
+
+
+<a name="2.22.0-1"></a>
+### 2.22.0-1 (2018-06-11)
+
+
+#### Features
+
+* expose webhook whitelist configuration as environment variables	 ([219cda4](/../../commit/219cda4))
+
+
+<a name="2.20.0-1"></a>
+### 2.20.0-1 (2018-06-08)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.20.0	 ([7d8212d](/../../commit/7d8212d))
+
+
+<a name="2.19.2-1"></a>
+### 2.19.2-1 (2018-05-29)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.19.2	 ([bf996ee](/../../commit/bf996ee))
+  * update pact_broker gem to version 2.19.1	 ([3038f35](/../../commit/3038f35))
+
+
+<a name="2.19.1-1"></a>
+### 2.19.1-1 (2018-05-18)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.19.1	 ([30a8da0](/../../commit/30a8da0))
+
+
+<a name="2.19.0-1"></a>
+### 2.19.0-1 (2018-05-10)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.19.0	 ([80708fe](/../../commit/80708fe))
+
+
+<a name="2.18.0-2"></a>
+### 2.18.0-2 (2018-04-05)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.18.0	 ([d1cdd51](/../../commit/d1cdd51))
+
+
+<a name="2.18.0-1"></a>
+### 2.18.0-1 (2018-04-05)
+
+
+#### Features
+
+* **gems**
+  * add rake tasks and update pact_broker gem to version 2.18.0	 ([6b83c67](/../../commit/6b83c67))
+
+
+<a name="2.17.1-1"></a>
+### 2.17.1-1 (2018-03-30)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.17.1	 ([31848b5](/../../commit/31848b5))
+  * update pact_broker gem to version 2.17.0	 ([bea5c1c](/../../commit/bea5c1c))
+
+
+<a name="2.16.1-3"></a>
+### 2.16.1-3 (2018-03-13)
+
+
+#### Bug Fixes
+
+* correct code for allowing public access to heartbeat url	 ([2b342d5](/../../commit/2b342d5))
+
+
 <a name="2.16.1-2"></a>
 ### 2.16.1-2 (2018-03-12)
 
