@@ -1,3 +1,35 @@
+<a name="2.26.0-1"></a>
+### 2.26.0-1 (2018-08-23)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.26.0	 ([0c7d74f](/../../commit/0c7d74f))
+
+
+<a name="2.25.0-1"></a>
+### 2.25.0-1 (2018-08-10)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.25.0	 ([1fc0c34](/../../commit/1fc0c34))
+
+* allow read only credentials to be set via environment variables	 ([49bf6ce](/../../commit/49bf6ce))
+
+
+<a name="2.24.0-1"></a>
+### 2.24.0-1 (2018-07-08)
+
+
+#### Features
+
+* **gems**
+  * update pact_broker gem to version 2.24.0	 ([6327428](/../../commit/6327428))
+
+
 <a name="2.23.4-1"></a>
 ### 2.23.4-1 (2018-07-04)
 
